@@ -2,7 +2,7 @@ team: Tigers
 
 manager: Thanos
 
-coach: Grace
+coach: Ronan
 
 members:
 - Linda
@@ -13,5 +13,6 @@ members:
 - Remote
 - Local
 - Gamora
+- Nebula
 
 fetch : this
