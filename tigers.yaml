@@ -1,8 +1,8 @@
 team: Tigers
 
-manager: Thanos
+manager: Kennth
 
-coach: Ronan
+coach: Grace
 
 members:
 - Linda
@@ -12,9 +12,5 @@ members:
 - MooNa
 - Remote
 - Local
-- Gamora
-- Nebula
-- JKLEE
-- MINHO
 
 fetch : this
